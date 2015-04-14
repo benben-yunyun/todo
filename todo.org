@@ -6,7 +6,7 @@
 
 * working                                                          :@working:
 ** doing and undone work
-*** DOING [#A] 正在编写用户服务管理中用户所具有服务的列表              :@dmp:
+
 ** week work
 *** 20150406-20150412                                                   
 **** DONE [#A] 完成用户基础信息获取展示逻辑                         :@dmp:
@@ -19,6 +19,12 @@ CLOSED: [2015-04-09 Thu 15:23]
 CLOSED: [2015-04-09 Thu 15:28]
 - State "DONE"       from "TODO"       [2015-04-09 Thu 15:28]
 
+*** 20150413-20150419
+**** DONE [#A] 完成编写用户服务管理中用户所具有服务的列表              :@dmp:
+CLOSED: [2015-04-14 Tue 14:48]
+- State "DONE"       from "DOING"      [2015-04-14 Tue 14:48]
+
+**** TODO [#A] 开始编写数据超市页面                        :@working:@dmp:
 * learning
 ** emacs                                                            :@emacs:
 *** org mode
@@ -28,3 +34,5 @@ CLOSED: [2015-04-11 Sat 19:08]
 - State "DOING"      from "TODO"       [2015-04-09 Thu 15:32]
 *** elisp
 **** TODO [#B] 学习elisp
+*** magit
+**** DONE [#B] 学习 magit 手册
