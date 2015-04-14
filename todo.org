@@ -1,0 +1,30 @@
+#+TITLE: 我的工作列表
+#+STARTUP: indent content logdone
+#+TAGS:  @working(w)  @dmp(d) 
+#+TAGS:  @learning(l) @emacs @httpserver 
+#+TODO: TODO(t!) DOING(d!) | DONE(f!)
+
+* working                                                          :@working:
+** doing and undone work
+*** DOING [#A] 正在编写用户服务管理中用户所具有服务的列表              :@dmp:
+** week work
+*** 20150406-20150412                                                   
+**** DONE [#A] 完成用户基础信息获取展示逻辑                         :@dmp:
+CLOSED: [2015-04-09 Thu 15:22]
+- State "DONE"       from "DOING"      [2015-04-09 Thu 15:22]
+**** DONE [#A] 完成用户基础信息提交逻辑                             :@dmp:
+CLOSED: [2015-04-09 Thu 15:23]
+- State "DONE"       from "TODO"       [2015-04-09 Thu 15:23]
+**** DONE [#A] 完成用户服务管理中token获取及展示逻辑                :@dmp:
+CLOSED: [2015-04-09 Thu 15:28]
+- State "DONE"       from "TODO"       [2015-04-09 Thu 15:28]
+
+* learning
+** emacs                                                            :@emacs:
+*** org mode
+**** DONE [#B] 学习org mode手册
+CLOSED: [2015-04-11 Sat 19:08]
+- State "DONE"       from "DOING"      [2015-04-11 Sat 19:08]
+- State "DOING"      from "TODO"       [2015-04-09 Thu 15:32]
+*** elisp
+**** TODO [#B] 学习elisp
